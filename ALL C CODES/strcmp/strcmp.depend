@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1611504352 source:c:\users\muskan makan\onedrive\desktop\new folder\strcmp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
